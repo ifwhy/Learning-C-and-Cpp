@@ -1,0 +1,7 @@
+L0123068,Ivan Wahyu Nugroho,Informatika,Fatisda
+K3322107,Yulia Setia Kusuma,Pendidikan Kimia,FKIP
+L0123042,Cornelius Felix Pamungkas,Informatika,Fatisda
+H0223032,Cahyo Feri Andriyan,Ilmu Tanah,FP
+K3322055,Isnani Ratriningsih,Pendidikan Kimia,FKIP
+L0123052,Farras Arkan Wardana,Informatika,Fatisda
+L0123050,Farhan Cahya Permana,Informatika,Fatisda
